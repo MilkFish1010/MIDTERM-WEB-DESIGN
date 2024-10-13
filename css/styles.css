@@ -30,7 +30,7 @@ center {
     }
     /* for gif */
 header {
-    background: url("/your-repo/images/profile.gif") no-repeat center center;
+    background: url("profile.gif") no-repeat center center;
     color: #fff;
     height: 100vh;
     display: flex;
