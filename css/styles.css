@@ -30,7 +30,7 @@ center {
     }
     /* for gif */
 header {
-    background: url("https://milkfish1010.github.io/image-museum/profile.gif") no-repeat center/cover;
+    background: url("https://milkfish1010.github.io/image-museum/pp.gif") no-repeat center/cover;
     color: #fff;
     height: 100vh;
     display: flex;
@@ -38,6 +38,7 @@ header {
     justify-content: center;
     flex-direction: column;
     position: relative;
+    animation: fadeIn 2s ease-in-out;
 }
 /* profile animations */
 @keyframes fadeIn {
@@ -120,8 +121,8 @@ header p {
 }
 /* The Web Dev's works */
 .create-section {
-    background: #fff;
-    color: #333;
+    background: url("https://milkfish1010.github.io/image-museum/QWc9.gif") no-repeat center/cover;
+    color: #ffffff;
     padding: 60px 0;
     text-align: center;
 }
@@ -147,7 +148,7 @@ max-width: 30%;
 }
 
 .project-card {
-background: linear-gradient(90deg, rgba(241,133,55,1) 0%, rgba(244,173,207,1) 48%, rgba(0,212,255,1) 100%);
+background: linear-gradient(90deg, rgb(2, 53, 83) 0%, rgb(167, 199, 223) 48%, rgb(80, 133, 144) 100%);
 padding: 20px;
 border-radius: 15px;
 box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
@@ -186,14 +187,14 @@ details summary {
     cursor: pointer;
     font-weight: bold;
     margin-top: 10px;
-    color: #ffbe55;
-    background: linear-gradient(135deg, #ff8a00, #e52e71);
+    color: #066523;
+    background: linear-gradient(135deg, #c9f4f4, #0d8590fe);
     padding: 8px;
     border-radius: 10px;
     width: 20%;;
     text-align: center;
     list-style: none;
-    border: outset rgb(254, 206, 255) 10px;
+    border: outset rgb(144, 150, 151) 10px;
     margin: 0 auto;
 }
 
@@ -398,3 +399,8 @@ animation: dada 1s infinite;
     .navbar a:hover {
         color: #ffbe55;
     }
+    /* for visibility */
+    a {
+        color: rgb(11, 206, 245);
+    }
+    
