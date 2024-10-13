@@ -13,7 +13,7 @@ This project is designed to be a web developer portfolio. The project is also co
 
 ## Page link:
 
-You can view the live project at [Live Demo Link]([http://your-live-demo-link.com](https://milkfish1010.github.io/midterm-web-design/).
+You can view the live project at [Live Demo Link]([🌐](https://milkfish1010.github.io/midterm-web-design/).
 
 ## Installation
 
