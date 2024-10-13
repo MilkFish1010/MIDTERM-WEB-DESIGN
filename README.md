@@ -1,14 +1,14 @@
 
 # Epic Dummy Web Developer Portfolio
 
-This project is designed to be as web developer portfolio
+This project is designed to be a web developer portfolio ujasiuygpg
 
 ## Table of Contents
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Contributing](#contributing)   
 - [License](#license)
 
 ## Demo
@@ -82,6 +82,4 @@ If you would like to contribute to this project, please follow these steps:
    ```
 5. Open a pull request on GitHub.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
