@@ -1,7 +1,7 @@
 
-# Project Title
+# Epic Dummy Web Developer Portfolio
 
-This project is designed to [insert a brief description of the project, its purpose, and its goals]. It aims to [insert what the project accomplishes, target audience, or key features].
+This project is designed to be as web developer portfolio
 
 ## Table of Contents
 - [Demo](#demo)
