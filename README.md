@@ -1,7 +1,7 @@
 
 # Epic Dummy Web Developer Portfolio
 
-This project is designed to be a web developer portfolio. The person is called Dummy because it is just an example. I made the website fun so don't forget to smile ok? 😁
+This project is designed to be a web developer portfolio. The project is also coded as HTML and CSS only. The person is called Dummy because it is just an example. I made the website fun so don't forget to smile ok? 😁
 
 ## Table of Contents
 - [Demo](#demo)
